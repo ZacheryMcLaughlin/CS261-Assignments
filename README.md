@@ -1,2 +1,3 @@
-# CS261-Assignments
-Repo for my CS261 assignments
+# CS261 Data Structures-Assignments
+Repo for my Data Structures assignments
+All coded in: C
